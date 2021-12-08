@@ -14,6 +14,7 @@ glaring_image = glaring_testing.predict(image_path=img_path)
 cv2.imwrite("resource/glaring_image.jpg", glaring_image)
 ```
 
+## Result
 ### Normal image
 ![Normal image](/resource/image.jpg)
 
