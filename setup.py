@@ -11,7 +11,7 @@ setup(
     name='glaring_simulation',
     packages=find_packages(include=['glaring_simulation']),
     version='0.1.0',
-    description='Augmentation methods: glaring
+    description='Augmentation methods: glaring',
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/thomle295/glaring_simulation",
